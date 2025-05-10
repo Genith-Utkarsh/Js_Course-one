@@ -1,2 +1,2 @@
 console.log("Utkarsh")
-console.log("Starting Js journey...");
+console.log("Starting Js journey...")
